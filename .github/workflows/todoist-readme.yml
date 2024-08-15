@@ -16,3 +16,5 @@ jobs:
         with:
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
           PREMIUM: true
+    permissions:
+      contents: write
