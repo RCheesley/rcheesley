@@ -32,6 +32,10 @@ Here's where you can contribute to the main projects that I support in open sour
 * [Women of Open Source](https://opencollective.com/women-of-open-source)
 * [Decidim](https://opencollective.com/decidim)
 
+## ✍🏻 Recent musings
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🤓 Geeky stuff
 
 ### Todoist Stats
