@@ -4,13 +4,13 @@
 
 * I use she/her pronouns.
 * I'm based in Ipswich, UK.
-* Open Source advocate for 20+ years.
-* Project Lead for [Mautic](https://mautic.org).
-* Co-founder of the [Women of Open Source](https://womenofopensource.org) community.
-* Public speaker, speaking regularly at events around the world on a range of topics from open source and tech to living an active life with a disability and my unconventional path to a career in tech.
-* Proud to be a trustee of [Breathworks](https://www.breathworks-mindfulness.org.uk/), helping people around the world living with pain and suffering.
-* EDS Warrior - living an active and full life with a long-term genetic condition called Ehlers-Danlos Syndrome.
-* Strange obsession for ultramarathon running!
+* I've been an open source advocate for 20+ years.
+* I currently work as Project Lead for [Mautic](https://mautic.org).
+* I'm a co-founder of the [Women of Open Source](https://womenofopensource.org) community.
+* I have the great privilege of speaking regularly at events around the world on a range of topics from open source and tech to living an active life with a disability and my unconventional path to a career in tech.
+* I'm proud to be a trustee of [Breathworks](https://www.breathworks-mindfulness.org.uk/), helping people around the world living with pain and suffering.
+* I'm an EDS Warrior - living an active and full life with a long-term genetic condition called Ehlers-Danlos Syndrome.
+* I have developed a strange obsession for ultramarathon running!
 
 ## Supporting me
 
