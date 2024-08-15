@@ -12,11 +12,11 @@
 * I'm an EDS Warrior - living an active and full life with a long-term genetic condition called Ehlers-Danlos Syndrome.
 * I have developed a strange obsession for ultramarathon running!
 
-## Supporting me
+## 🥰 Supporting me
 
 If I've helped you in some way, there's various ways to express your gratitude.
 
-### Personal
+### 👤 Personal
 
 Here's where you can financially support me personally, rather than through the projects that I am involved with.
 
@@ -24,7 +24,7 @@ Here's where you can financially support me personally, rather than through the 
 * [Ko-Fi](https://ko-fi.com/rcheesley)
 * [Patreon](https://www.patreon.com/rcheesley/)
 
-### Projects
+### 🎯 Projects
 
 Here's where you can contribute to the main projects that I support in open source.
 
