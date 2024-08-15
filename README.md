@@ -37,4 +37,9 @@ Here's where you can contribute to the main projects that I support in open sour
 ### Todoist Stats
 
 <!-- TODO-IST:START -->
+🏆  25,248 Karma Points           
+🌸  Completed 0 tasks today           
+🗓  Completed 7 tasks this week           
+✅  Completed 6,724 tasks so far           
+⏳  Longest streak is 88 days
 <!-- TODO-IST:END -->
