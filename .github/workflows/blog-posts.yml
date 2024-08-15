@@ -16,4 +16,4 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://ruthcheesley.co.uk/blog/all-blog-posts?format=feed&type=rss"
+          feed_list: "https://rss.app/feeds/Li4EXYfDyqeYaVaL.xml"
