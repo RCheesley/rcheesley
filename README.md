@@ -43,7 +43,12 @@ Here's where you can contribute to the main projects that I support in open sour
 
 ## 🤓 Geeky stuff
 
-### Todoist Stats
+### 📚 Books I'm currently reading
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+(see this [awesome GitHub Action](https://github.com/marketplace/actions/goodreads-profile-workflow) from [@zwacky](https://github.com/zwacky)
+
+### 📈 Todoist Stats
 
 <!-- TODO-IST:START -->
 🏆  25,273 Karma Points           
