@@ -45,7 +45,7 @@ Here's where you can contribute to the main projects that I support in open sour
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [Seven Papers by Subhuti with Sangharakshita](https://www.goodreads.com/review/show/3121831210?utm_medium=api&utm_source=rss) by Sangharakshita (⭐️4.89)
+- [Seven Papers by Subhuti with Sangharakshita](https://www.goodreads.com/review/show/3121831210?utm_medium=api&utm_source=rss) by Sangharakshita (⭐️4.8)
 - [Triratna Dharma Training Course Year 1](https://www.goodreads.com/review/show/6413349745?utm_medium=api&utm_source=rss) by Triratna Buddhist Community (⭐️4.9)
 - [Product-Led Growth: How to Build a Product That Sells Itself (Product-Led Growth Series Book 1)](https://www.goodreads.com/review/show/6394044559?utm_medium=api&utm_source=rss) by Wes Bush (⭐️4.09)
 - [Teachers of Enlightenment: The Refuge Tree of the Triratna Buddhist Order](https://www.goodreads.com/review/show/6331719229?utm_medium=api&utm_source=rss) by Kulananda with Vajratara (⭐️5)
