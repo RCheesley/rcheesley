@@ -51,7 +51,7 @@ Here's where you can contribute to the main projects that I support in open sour
 - [Triratna Dharma Training Course Year 1](https://www.goodreads.com/review/show/6413349745?utm_medium=api&utm_source=rss) by Triratna Buddhist Community (⭐️4.9)
 - [Teachers of Enlightenment: The Refuge Tree of the Triratna Buddhist Order](https://www.goodreads.com/review/show/6331719229?utm_medium=api&utm_source=rss) by Kulananda with Vajratara (⭐️5)
 - [Teachers of Enlightenment: The Refuge Tree of the Western Buddhist Order](https://www.goodreads.com/review/show/5689252121?utm_medium=api&utm_source=rss) by Kulananda (⭐️)
-- [The Awakening Body:: Somatic Meditation for Discovering Our Deepest Life](https://www.goodreads.com/review/show/3526025813?utm_medium=api&utm_source=rss) by Reginald A. Ray (⭐️4.37)
+- [The Awakening Body:: Somatic Meditation for Discovering Our Deepest Life](https://www.goodreads.com/review/show/3526025813?utm_medium=api&utm_source=rss) by Reginald A. Ray (⭐️4.31)
 <!-- GOODREADS-LIST:END -->
 (see this [awesome GitHub Action](https://github.com/marketplace/actions/goodreads-profile-workflow) from [@zwacky](https://github.com/zwacky)
 
