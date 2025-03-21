@@ -45,7 +45,7 @@ Here's where you can contribute to the main projects that I support in open sour
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [How to DAO: Mastering the Future of Internet Coordination](https://www.goodreads.com/review/show/7333878001?utm_medium=api&utm_source=rss) by Kevin Owocki (⭐️3.9)
+- [How to DAO: Mastering the Future of Internet Coordination](https://www.goodreads.com/review/show/7333878001?utm_medium=api&utm_source=rss) by Kevin Owocki (⭐️4)
 - [Work With Source](https://www.goodreads.com/review/show/7333874782?utm_medium=api&utm_source=rss) by Tom   Nixon (⭐️4)
 - [Marketing Strategy: Overcome Common Pitfalls and Create Effective Marketing](https://www.goodreads.com/review/show/7053663161?utm_medium=api&utm_source=rss) by Jenna Tiffany (⭐️3.88)
 - [The Product-Led Playbook: How to Unlock Self-Serve Revenue and Dominate Your Market (With a Tiny Team) (ProductLed Library Book 2)](https://www.goodreads.com/review/show/6941255147?utm_medium=api&utm_source=rss) by Wes Bush (⭐️4.48)
