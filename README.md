@@ -34,6 +34,8 @@ Here's where you can contribute to the main projects that I support in open sour
 
 ## ✍🏻 Recent musings
 <!-- BLOG-POST-LIST:START -->
+- [Four ancient principles every open source leader can benefit from implementing](https://ruthcheesley.co.uk/blog/community-management/four-ancient-principles-every-open-source-leader-can-benefit-from-implementing)
+- [Living with Ehlers-Danlos Syndrome: How I ran 50 miles to support Breathworks](https://ruthcheesley.co.uk/blog/health-and-fitness/living-with-ehlers-danlos-syndrome-how-i-ran-50-miles-to-support-breathworks)
 - [State of Open Con 24: A bright future for Open Technology](https://ruthcheesley.co.uk/blog/open-source/state-of-open-con-24-a-bright-future-for-open-technology)
 - [FOSDEM 2024: A recap](https://ruthcheesley.co.uk/blog/open-source/fosdem-2024-a-recap)
 - [Running an RFP process in an open source project](https://ruthcheesley.co.uk/blog/open-source/running-an-rfp-process-in-an-open-source-project)
