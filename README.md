@@ -65,7 +65,7 @@ Here's where you can contribute to the main projects that I support in open sour
 <!-- TODO-IST:START -->
 🏆  29,224 Karma Points           
 🌸  Completed 0 tasks today           
-🗓  Completed 16 tasks this week           
+🗓  Completed 0 tasks this week           
 ✅  Completed 8,002 tasks so far           
 ⏳  Longest streak is 88 days
 <!-- TODO-IST:END -->
