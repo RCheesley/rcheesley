@@ -34,6 +34,7 @@ Here's where you can contribute to the main projects that I support in open sour
 
 ## ✍🏻 Recent musings
 <!-- BLOG-POST-LIST:START -->
+- [Cultivating non-harm and kindness in open source leadership](https://ruthcheesley.co.uk/blog/buddhism/cultivating-non-harm-and-kindness-in-open-source-leadership)
 - [Four ancient principles every open source leader can benefit from implementing](https://ruthcheesley.co.uk/blog/community-management/four-ancient-principles-every-open-source-leader-can-benefit-from-implementing)
 - [Living with Ehlers-Danlos Syndrome: How I ran 50 miles to support Breathworks](https://ruthcheesley.co.uk/blog/health-and-fitness/living-with-ehlers-danlos-syndrome-how-i-ran-50-miles-to-support-breathworks)
 - [State of Open Con 24: A bright future for Open Technology](https://ruthcheesley.co.uk/blog/open-source/state-of-open-con-24-a-bright-future-for-open-technology)
