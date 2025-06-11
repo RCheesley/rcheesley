@@ -49,6 +49,7 @@ Here's where you can contribute to the main projects that I support in open sour
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Sharpe&apos;s Triumph (Sharpe, #2)](https://www.goodreads.com/review/show/7645584153?utm_medium=api&utm_source=rss) by Bernard Cornwell (⭐️4.11)
 - [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/review/show/7493561079?utm_medium=api&utm_source=rss) by Julie Zhuo (⭐️4.18)
 - [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/review/show/7493560955?utm_medium=api&utm_source=rss) by L. David Marquet (⭐️4.18)
 - [Radical Candor: Be a Kickass Boss Without Losing Your Humanity](https://www.goodreads.com/review/show/5196284400?utm_medium=api&utm_source=rss) by Kim Malone Scott (⭐️4.05)
@@ -58,7 +59,6 @@ Here's where you can contribute to the main projects that I support in open sour
 - [Seven Papers by Subhuti with Sangharakshita](https://www.goodreads.com/review/show/3121831210?utm_medium=api&utm_source=rss) by Sangharakshita (⭐️4.8)
 - [Triratna Dharma Training Course Year 1](https://www.goodreads.com/review/show/6413349745?utm_medium=api&utm_source=rss) by Triratna Buddhist Community (⭐️4.9)
 - [Teachers of Enlightenment: The Refuge Tree of the Triratna Buddhist Order](https://www.goodreads.com/review/show/6331719229?utm_medium=api&utm_source=rss) by Kulananda with Vajratara (⭐️5)
-- [Teachers of Enlightenment: The Refuge Tree of the Western Buddhist Order](https://www.goodreads.com/review/show/5689252121?utm_medium=api&utm_source=rss) by Kulananda (⭐️)
 <!-- GOODREADS-LIST:END -->
 (see this [awesome GitHub Action](https://github.com/marketplace/actions/goodreads-profile-workflow) from [@zwacky](https://github.com/zwacky)
 
