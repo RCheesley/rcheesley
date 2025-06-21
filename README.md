@@ -49,7 +49,7 @@ Here's where you can contribute to the main projects that I support in open sour
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [The Mountains of Mourning (Vorkosigan Saga, #5.1)](https://www.goodreads.com/review/show/7670571062?utm_medium=api&utm_source=rss) by Lois McMaster Bujold (⭐️4.3)
+- [The Vor Game (Vorkosigan Saga, #6)](https://www.goodreads.com/review/show/7671906255?utm_medium=api&utm_source=rss) by Lois McMaster Bujold (⭐️4.38)
 - [Sharpe&apos;s Triumph (Sharpe, #2)](https://www.goodreads.com/review/show/7645584153?utm_medium=api&utm_source=rss) by Bernard Cornwell (⭐️4.11)
 - [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/review/show/7493561079?utm_medium=api&utm_source=rss) by Julie Zhuo (⭐️4.18)
 - [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/review/show/7493560955?utm_medium=api&utm_source=rss) by L. David Marquet (⭐️4.18)
