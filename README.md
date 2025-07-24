@@ -10,7 +10,7 @@
 * I have the great privilege of speaking regularly at events around the world on a range of topics from open source and tech to living an active life with a disability and my unconventional path to a career in tech.
 * I'm proud to be a trustee of [Breathworks](https://www.breathworks-mindfulness.org.uk/), helping people around the world living with pain and suffering.
 * I'm an EDS Warrior - living an active and full life with a long-term genetic condition called Ehlers-Danlos Syndrome.
-* I have developed a strange obsession for ultramarathon running!
+* I have developed a strange obsession for ultramarathon running and more recently, sprint triathlons 🏊🏻‍♀️🚴🏻‍♀️🏃🏻‍♀️!
 
 ## 🥰 Supporting me
 
