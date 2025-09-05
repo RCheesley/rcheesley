@@ -65,10 +65,10 @@ Here's where you can contribute to the main projects that I support in open sour
 ### 📈 Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  30,460 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 51 tasks this week           
-✅  Completed 8,480 tasks so far           
+🏆  30,466 Karma Points           
+🌸  Completed 6 tasks today           
+🗓  Completed 57 tasks this week           
+✅  Completed 8,486 tasks so far           
 ⏳  Longest streak is 88 days
 <!-- TODO-IST:END -->
 (see this [awesome GitHub Action](https://github.com/abhisheknaiidu/todoist-readme) from [@abhisheknaiidu](https://github.com/abhisheknaiidu))
