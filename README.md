@@ -34,15 +34,12 @@ Here's where you can contribute to the main projects that I support in open sour
 
 ## ✍🏻 Recent musings
 <!-- BLOG-POST-LIST:START -->
+- [Cultivating true value beyond takers v makers in open source](https://ruthcheesley.co.uk/blog/buddhism/cultivating-true-value-beyond-takers-v-makers-in-open-source)
 - [Understanding digital sovereignty - your key to marketing freedom](https://ruthcheesley.co.uk/blog/digital-sovereignty/understanding-digital-sovereignty-your-key-to-marketing-freedom)
 - [Cultivating non-harm and kindness in open source leadership](https://ruthcheesley.co.uk/blog/buddhism/cultivating-non-harm-and-kindness-in-open-source-leadership)
 - [Four ancient principles every open source leader can benefit from implementing](https://ruthcheesley.co.uk/blog/community-management/four-ancient-principles-every-open-source-leader-can-benefit-from-implementing)
 - [Living with Ehlers-Danlos Syndrome: How I ran 50 miles to support Breathworks](https://ruthcheesley.co.uk/blog/health-and-fitness/living-with-ehlers-danlos-syndrome-how-i-ran-50-miles-to-support-breathworks)
-- [State of Open Con 24: A bright future for Open Technology](https://ruthcheesley.co.uk/blog/open-source/state-of-open-con-24-a-bright-future-for-open-technology)
-- [FOSDEM 2024: A recap](https://ruthcheesley.co.uk/blog/open-source/fosdem-2024-a-recap)
-- [Running an RFP process in an open source project](https://ruthcheesley.co.uk/blog/open-source/running-an-rfp-process-in-an-open-source-project)
-- [Q3 2023 Mautic Roundup](https://ruthcheesley.co.uk/blog/mautic/q3-2023-mautic-roundup)
-- [Q2 2023 Mautic Roundup](https://ruthcheesley.co.uk/blog/mautic/q2-2023-mautic-roundup)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤓 Geeky stuff
