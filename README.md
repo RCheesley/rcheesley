@@ -46,7 +46,7 @@ Here's where you can contribute to the main projects that I support in open sour
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [The Secret of Secrets (Robert Langdon, #6)](https://www.goodreads.com/review/show/7909190884?utm_medium=api&utm_source=rss) by Dan    Brown (⭐️4.17)
+- [The Secret of Secrets (Robert Langdon, #6)](https://www.goodreads.com/review/show/7909190884?utm_medium=api&utm_source=rss) by Dan    Brown (⭐️4.18)
 - [Sharpe's Fortress (Sharpe, #3)](https://www.goodreads.com/review/show/7678758598?utm_medium=api&utm_source=rss) by Bernard Cornwell (⭐️4.18)
 - [The Vor Game (Vorkosigan Saga, #6)](https://www.goodreads.com/review/show/7671906255?utm_medium=api&utm_source=rss) by Lois McMaster Bujold (⭐️4.39)
 - [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/review/show/7493561079?utm_medium=api&utm_source=rss) by Julie Zhuo (⭐️4.18)
