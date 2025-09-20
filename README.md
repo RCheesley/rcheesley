@@ -47,7 +47,6 @@ Here's where you can contribute to the main projects that I support in open sour
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [Radical Candor: How to Get What You Want by Saying What You Mean](https://www.goodreads.com/review/show/5196284400?utm_medium=api&utm_source=rss) by Kim Malone Scott (⭐️4.14)
-- [Sharpe's Fortress (Sharpe, #3)](https://www.goodreads.com/review/show/7678758598?utm_medium=api&utm_source=rss) by Bernard Cornwell (⭐️4.18)
 - [The Vor Game (Vorkosigan Saga, #6)](https://www.goodreads.com/review/show/7671906255?utm_medium=api&utm_source=rss) by Lois McMaster Bujold (⭐️4.39)
 - [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/review/show/7493561079?utm_medium=api&utm_source=rss) by Julie Zhuo (⭐️4.18)
 - [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/review/show/7493560955?utm_medium=api&utm_source=rss) by L. David Marquet (⭐️4.18)
@@ -56,6 +55,7 @@ Here's where you can contribute to the main projects that I support in open sour
 - [The Product-Led Playbook: How to Unlock Self-Serve Revenue and Dominate Your Market (With a Tiny Team) (ProductLed Library Book 2)](https://www.goodreads.com/review/show/6941255147?utm_medium=api&utm_source=rss) by Wes Bush (⭐️4.47)
 - [Seven Papers by Subhuti with Sangharakshita](https://www.goodreads.com/review/show/3121831210?utm_medium=api&utm_source=rss) by Sangharakshita (⭐️4.8)
 - [Triratna Dharma Training Course Year 1](https://www.goodreads.com/review/show/6413349745?utm_medium=api&utm_source=rss) by Triratna Buddhist Community (⭐️4.9)
+- [Teachers of Enlightenment: The Refuge Tree of the Triratna Buddhist Order](https://www.goodreads.com/review/show/6331719229?utm_medium=api&utm_source=rss) by Kulananda with Vajratara (⭐️5)
 <!-- GOODREADS-LIST:END -->
 (see this [awesome GitHub Action](https://github.com/marketplace/actions/goodreads-profile-workflow) from [@zwacky](https://github.com/zwacky)
 
