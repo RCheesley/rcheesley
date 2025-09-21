@@ -34,12 +34,12 @@ Here's where you can contribute to the main projects that I support in open sour
 
 ## ✍🏻 Recent musings
 <!-- BLOG-POST-LIST:START -->
+- [Finding stillness and focus in the chaos of open source](https://ruthcheesley.co.uk/blog/buddhism/finding-stillness-and-focus-in-the-chaos-of-open-source)
 - [Cultivating true value beyond takers v makers in open source](https://ruthcheesley.co.uk/blog/buddhism/cultivating-true-value-beyond-takers-v-makers-in-open-source)
+- [Digital colonialism and how your marketing stack is surrendering your business sovereignty](https://ruthcheesley.co.uk/blog/digital-sovereignty/digital-colonialism-and-how-your-marketing-stack-is-surrendering-your-business-sovereignty)
 - [Understanding digital sovereignty - your key to marketing freedom](https://ruthcheesley.co.uk/blog/digital-sovereignty/understanding-digital-sovereignty-your-key-to-marketing-freedom)
 - [Cultivating non-harm and kindness in open source leadership](https://ruthcheesley.co.uk/blog/buddhism/cultivating-non-harm-and-kindness-in-open-source-leadership)
 - [Four ancient principles every open source leader can benefit from implementing](https://ruthcheesley.co.uk/blog/community-management/four-ancient-principles-every-open-source-leader-can-benefit-from-implementing)
-- [Living with Ehlers-Danlos Syndrome: How I ran 50 miles to support Breathworks](https://ruthcheesley.co.uk/blog/health-and-fitness/living-with-ehlers-danlos-syndrome-how-i-ran-50-miles-to-support-breathworks)
-
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤓 Geeky stuff
