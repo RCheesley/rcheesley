@@ -46,7 +46,6 @@ Here's where you can contribute to the main projects that I support in open sour
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [The AI-Driven Leader: Harnessing AI to Make Faster, Smarter Decisions](https://www.goodreads.com/review/show/7986698147?utm_medium=api&utm_source=rss) by Geoff Woods (⭐️3.99)
 - [Radical Candor: How to Get What You Want by Saying What You Mean](https://www.goodreads.com/review/show/5196284400?utm_medium=api&utm_source=rss) by Kim Malone Scott (⭐️4.14)
 - [The Vor Game (Vorkosigan Saga, #6)](https://www.goodreads.com/review/show/7671906255?utm_medium=api&utm_source=rss) by Lois McMaster Bujold (⭐️4.39)
 - [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/review/show/7493561079?utm_medium=api&utm_source=rss) by Julie Zhuo (⭐️4.18)
@@ -56,6 +55,7 @@ Here's where you can contribute to the main projects that I support in open sour
 - [The Product-Led Playbook: How to Unlock Self-Serve Revenue and Dominate Your Market (With a Tiny Team) (ProductLed Library Book 2)](https://www.goodreads.com/review/show/6941255147?utm_medium=api&utm_source=rss) by Wes Bush (⭐️4.53)
 - [Seven Papers by Subhuti with Sangharakshita](https://www.goodreads.com/review/show/3121831210?utm_medium=api&utm_source=rss) by Sangharakshita (⭐️4.8)
 - [Triratna Dharma Training Course Year 1](https://www.goodreads.com/review/show/6413349745?utm_medium=api&utm_source=rss) by Triratna Buddhist Community (⭐️4.9)
+- [Teachers of Enlightenment: The Refuge Tree of the Triratna Buddhist Order](https://www.goodreads.com/review/show/6331719229?utm_medium=api&utm_source=rss) by Kulananda with Vajratara (⭐️5)
 <!-- GOODREADS-LIST:END -->
 (see this [awesome GitHub Action](https://github.com/marketplace/actions/goodreads-profile-workflow) from [@zwacky](https://github.com/zwacky)
 
