@@ -52,7 +52,7 @@ Here's where you can contribute to the main projects that I support in open sour
 - [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/review/show/7493560955?utm_medium=api&utm_source=rss) by L. David Marquet (⭐️4.18)
 - [Work With Source](https://www.goodreads.com/review/show/7333874782?utm_medium=api&utm_source=rss) by Tom   Nixon (⭐️3.95)
 - [Marketing Strategy: Overcome Common Pitfalls and Create Effective Marketing](https://www.goodreads.com/review/show/7053663161?utm_medium=api&utm_source=rss) by Jenna Tiffany (⭐️3.88)
-- [The Product-Led Playbook: How to Unlock Self-Serve Revenue and Dominate Your Market (With a Tiny Team) (ProductLed Library Book 2)](https://www.goodreads.com/review/show/6941255147?utm_medium=api&utm_source=rss) by Wes Bush (⭐️4.51)
+- [The Product-Led Playbook: How to Unlock Self-Serve Revenue and Dominate Your Market (With a Tiny Team) (ProductLed Library Book 2)](https://www.goodreads.com/review/show/6941255147?utm_medium=api&utm_source=rss) by Wes Bush (⭐️4.52)
 - [Seven Papers by Subhuti with Sangharakshita](https://www.goodreads.com/review/show/3121831210?utm_medium=api&utm_source=rss) by Sangharakshita (⭐️4.8)
 - [Triratna Dharma Training Course Year 1](https://www.goodreads.com/review/show/6413349745?utm_medium=api&utm_source=rss) by Triratna Buddhist Community (⭐️4.9)
 - [Teachers of Enlightenment: The Refuge Tree of the Triratna Buddhist Order](https://www.goodreads.com/review/show/6331719229?utm_medium=api&utm_source=rss) by Kulananda with Vajratara (⭐️5)
