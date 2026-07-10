@@ -34,12 +34,12 @@ Here's where you can contribute to the main projects that I support in open sour
 
 ## ✍🏻 Recent musings
 <!-- BLOG-POST-LIST:START -->
-- [Finding stillness and focus in the chaos of open source](https://ruthcheesley.co.uk/blog/buddhism/finding-stillness-and-focus-in-the-chaos-of-open-source)
-- [Cultivating true value beyond takers v makers in open source](https://ruthcheesley.co.uk/blog/buddhism/cultivating-true-value-beyond-takers-v-makers-in-open-source)
-- [Digital colonialism and how your marketing stack is surrendering your business sovereignty](https://ruthcheesley.co.uk/blog/digital-sovereignty/digital-colonialism-and-how-your-marketing-stack-is-surrendering-your-business-sovereignty)
-- [Understanding digital sovereignty - your key to marketing freedom](https://ruthcheesley.co.uk/blog/digital-sovereignty/understanding-digital-sovereignty-your-key-to-marketing-freedom)
-- [Cultivating non-harm and kindness in open source leadership](https://ruthcheesley.co.uk/blog/buddhism/cultivating-non-harm-and-kindness-in-open-source-leadership)
-- [Four ancient principles every open source leader can benefit from implementing](https://ruthcheesley.co.uk/blog/community-management/four-ancient-principles-every-open-source-leader-can-benefit-from-implementing)
+- [Introducing Sīlavāpi](https://ruthcheesley.co.uk/blog/buddhism/introducing-silavapi)
+- [What dāna teaches us about open source sustainability](https://ruthcheesley.co.uk/blog/open-source/what-dana-teaches-us-about-open-source-sustainability)
+- [When the project you lead needs community support](https://ruthcheesley.co.uk/blog/open-source/when-the-project-you-lead-needs-community-support)
+- [Making your dharma notes digital, linked and searchable](https://ruthcheesley.co.uk/blog/buddhism/making-your-dharma-notes-digital-linked-and-searchable)
+- [Personalisation and customer experience done right at the New Wolsey Theatre](https://ruthcheesley.co.uk/blog/marketing/personalisation-and-customer-experience-done-right-at-the-new-wolsey-theatre)
+- [Is truthful speech the most critical infrastructure in community management?](https://ruthcheesley.co.uk/blog/buddhism/is-truthful-speech-the-most-critical-infrastructure-in-community-management)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤓 Geeky stuff
