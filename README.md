@@ -49,7 +49,7 @@ Here's where you can contribute to the main projects that I support in open sour
 - [Radical Candor: How to Get What You Want by Saying What You Mean](https://www.goodreads.com/review/show/5196284400?utm_medium=api&utm_source=rss) by Kim Malone Scott (⭐️4.13)
 - [The Vor Game (Vorkosigan Saga, #6)](https://www.goodreads.com/review/show/7671906255?utm_medium=api&utm_source=rss) by Lois McMaster Bujold (⭐️4.4)
 - [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/review/show/7493561079?utm_medium=api&utm_source=rss) by Julie Zhuo (⭐️4.17)
-- [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/review/show/7493560955?utm_medium=api&utm_source=rss) by L. David Marquet (⭐️4.18)
+- [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/review/show/7493560955?utm_medium=api&utm_source=rss) by L. David Marquet (⭐️4.17)
 - [Work With Source](https://www.goodreads.com/review/show/7333874782?utm_medium=api&utm_source=rss) by Tom   Nixon (⭐️4)
 - [Marketing Strategy: Overcome Common Pitfalls and Create Effective Marketing](https://www.goodreads.com/review/show/7053663161?utm_medium=api&utm_source=rss) by Jenna Tiffany (⭐️3.88)
 - [The Product-Led Playbook: How to Unlock Self-Serve Revenue and Dominate Your Market (With a Tiny Team) (ProductLed Library Book 2)](https://www.goodreads.com/review/show/6941255147?utm_medium=api&utm_source=rss) by Wes Bush (⭐️4.5)
