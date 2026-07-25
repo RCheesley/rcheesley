@@ -58,14 +58,3 @@ Here's where you can contribute to the main projects that I support in open sour
 - [Teachers of Enlightenment: The Refuge Tree of the Triratna Buddhist Order](https://www.goodreads.com/review/show/6331719229?utm_medium=api&utm_source=rss) by Kulananda with Vajratara (⭐️5)
 <!-- GOODREADS-LIST:END -->
 (see this [awesome GitHub Action](https://github.com/marketplace/actions/goodreads-profile-workflow) from [@zwacky](https://github.com/zwacky)
-
-### 📈 Todoist Stats
-
-<!-- TODO-IST:START -->
-🏆  31,521 Karma Points           
-🌸  Completed 1 tasks today           
-🗓  Completed 4 tasks this week           
-✅  Completed 9,363 tasks so far           
-⏳  Longest streak is 88 days
-<!-- TODO-IST:END -->
-(see this [awesome GitHub Action](https://github.com/abhisheknaiidu/todoist-readme) from [@abhisheknaiidu](https://github.com/abhisheknaiidu))
