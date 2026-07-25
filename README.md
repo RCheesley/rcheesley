@@ -3,6 +3,7 @@
 ## 🤔 About me
 
 * I use she/her pronouns.
+* I was ordained into the Triratna Buddhist Order in the summer of 2026, and given the name of Sīlavāpi, meaning 'she who is a lake of virtuous conduct'. Read more: [Introducing Sīlavāpi](https://ruthcheesley.co.uk/blog/buddhism/introducing-silavapi)
 * I'm based in Ipswich, UK.
 * I've been an open source advocate for 20+ years.
 * I currently work as Project Lead for [Mautic](https://mautic.org).
