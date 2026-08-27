@@ -48,7 +48,7 @@ Here's where you can contribute to the main projects that I support in open sour
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [The Great CEO Within: The Tactical Guide to Company Building](https://www.goodreads.com/review/show/8891234363?utm_medium=api&utm_source=rss) by Matt Mochary (⭐️4.38)
-- [Designing Your Life: Build a Life that Works for You](https://www.goodreads.com/review/show/3121983187?utm_medium=api&utm_source=rss) by Bill Burnett (⭐️4.12)
+- [Designing Your Life: Build a Life that Works for You](https://www.goodreads.com/review/show/3121983187?utm_medium=api&utm_source=rss) by Bill Burnett (⭐️4.1)
 - [The Radical Embrace: A Meditator’s Guide to Embodying Love](https://www.goodreads.com/review/show/8820801531?utm_medium=api&utm_source=rss) by Singhashri Gazmuri (⭐️5)
 - [Radical Candor: How to Get What You Want by Saying What You Mean](https://www.goodreads.com/review/show/5196284400?utm_medium=api&utm_source=rss) by Kim Malone Scott (⭐️4.13)
 - [The Vor Game (Vorkosigan Saga, #6)](https://www.goodreads.com/review/show/7671906255?utm_medium=api&utm_source=rss) by Lois McMaster Bujold (⭐️4.4)
