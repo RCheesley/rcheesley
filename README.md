@@ -1,4 +1,5 @@
-![GitHub Readme Main Image](https://github.com/user-attachments/assets/7e320678-8147-4916-b96e-9c325d8b2ad5)
+<img width="1660" height="484" alt="silavapi-github-banner" src="https://github.com/user-attachments/assets/cdf7676d-ed66-4713-9d55-43ff29d1c349" />
+
 
 ## 🤔 About me
 
