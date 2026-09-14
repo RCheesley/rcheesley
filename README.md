@@ -48,6 +48,7 @@ Here's where you can contribute to the main projects that I support in open sour
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Traction: Get a Grip on Your Business](https://www.goodreads.com/review/show/8944888687?utm_medium=api&utm_source=rss) by Gino Wickman (⭐️4)
 - [The Great CEO Within: The Tactical Guide to Company Building](https://www.goodreads.com/review/show/8891234363?utm_medium=api&utm_source=rss) by Matt Mochary (⭐️4.38)
 - [Designing Your Life: Build a Life that Works for You](https://www.goodreads.com/review/show/3121983187?utm_medium=api&utm_source=rss) by Bill Burnett (⭐️4.1)
 - [The Radical Embrace: A Meditator’s Guide to Embodying Love](https://www.goodreads.com/review/show/8820801531?utm_medium=api&utm_source=rss) by Singhashri Gazmuri (⭐️5)
@@ -57,6 +58,5 @@ Here's where you can contribute to the main projects that I support in open sour
 - [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/review/show/7493560955?utm_medium=api&utm_source=rss) by L. David Marquet (⭐️4.17)
 - [Work With Source](https://www.goodreads.com/review/show/7333874782?utm_medium=api&utm_source=rss) by Tom   Nixon (⭐️4)
 - [Marketing Strategy: Overcome Common Pitfalls and Create Effective Marketing](https://www.goodreads.com/review/show/7053663161?utm_medium=api&utm_source=rss) by Jenna Tiffany (⭐️3.88)
-- [The Product-Led Playbook: How to Unlock Self-Serve Revenue and Dominate Your Market (With a Tiny Team) (ProductLed Library Book 2)](https://www.goodreads.com/review/show/6941255147?utm_medium=api&utm_source=rss) by Wes Bush (⭐️4.48)
 <!-- GOODREADS-LIST:END -->
 (see this [awesome GitHub Action](https://github.com/marketplace/actions/goodreads-profile-workflow) from [@zwacky](https://github.com/zwacky)
