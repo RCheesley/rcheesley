@@ -48,6 +48,7 @@ Here's where you can contribute to the main projects that I support in open sour
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [The Second in Command: Unleash the Power of Your COO](https://www.goodreads.com/review/show/8958680433?utm_medium=api&utm_source=rss) by Cameron Herold (⭐️4.32)
 - [Traction: Get a Grip on Your Business](https://www.goodreads.com/review/show/8944888687?utm_medium=api&utm_source=rss) by Gino Wickman (⭐️4)
 - [The Great CEO Within: The Tactical Guide to Company Building](https://www.goodreads.com/review/show/8891234363?utm_medium=api&utm_source=rss) by Matt Mochary (⭐️4.38)
 - [Designing Your Life: Build a Life that Works for You](https://www.goodreads.com/review/show/3121983187?utm_medium=api&utm_source=rss) by Bill Burnett (⭐️4.1)
@@ -57,6 +58,5 @@ Here's where you can contribute to the main projects that I support in open sour
 - [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/review/show/7493561079?utm_medium=api&utm_source=rss) by Julie Zhuo (⭐️4.17)
 - [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/review/show/7493560955?utm_medium=api&utm_source=rss) by L. David Marquet (⭐️4.17)
 - [Work With Source](https://www.goodreads.com/review/show/7333874782?utm_medium=api&utm_source=rss) by Tom   Nixon (⭐️4)
-- [Marketing Strategy: Overcome Common Pitfalls and Create Effective Marketing](https://www.goodreads.com/review/show/7053663161?utm_medium=api&utm_source=rss) by Jenna Tiffany (⭐️3.88)
 <!-- GOODREADS-LIST:END -->
 (see this [awesome GitHub Action](https://github.com/marketplace/actions/goodreads-profile-workflow) from [@zwacky](https://github.com/zwacky)
