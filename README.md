@@ -48,6 +48,7 @@ Here's where you can contribute to the main projects that I support in open sour
 
 ### 📚 Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Closer Than You Think](https://www.goodreads.com/review/show/8961832477?utm_medium=api&utm_source=rss) by Srivati Skelton (⭐️5)
 - [The Second in Command: Unleash the Power of Your COO](https://www.goodreads.com/review/show/8958680433?utm_medium=api&utm_source=rss) by Cameron Herold (⭐️4.32)
 - [Traction: Get a Grip on Your Business](https://www.goodreads.com/review/show/8944888687?utm_medium=api&utm_source=rss) by Gino Wickman (⭐️4)
 - [The Great CEO Within: The Tactical Guide to Company Building](https://www.goodreads.com/review/show/8891234363?utm_medium=api&utm_source=rss) by Matt Mochary (⭐️4.38)
@@ -57,6 +58,5 @@ Here's where you can contribute to the main projects that I support in open sour
 - [The Vor Game (Vorkosigan Saga, #6)](https://www.goodreads.com/review/show/7671906255?utm_medium=api&utm_source=rss) by Lois McMaster Bujold (⭐️4.4)
 - [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/review/show/7493561079?utm_medium=api&utm_source=rss) by Julie Zhuo (⭐️4.17)
 - [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/review/show/7493560955?utm_medium=api&utm_source=rss) by L. David Marquet (⭐️4.17)
-- [Work With Source](https://www.goodreads.com/review/show/7333874782?utm_medium=api&utm_source=rss) by Tom   Nixon (⭐️4)
 <!-- GOODREADS-LIST:END -->
 (see this [awesome GitHub Action](https://github.com/marketplace/actions/goodreads-profile-workflow) from [@zwacky](https://github.com/zwacky)
